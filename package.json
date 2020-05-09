@@ -1,0 +1,15 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nf start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "foreman": "^3.0.1"
+  },
+  "dependencies": {}
+}

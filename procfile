@@ -1,0 +1,2 @@
+api: npm run dev --prefix ./api
+webapp: npm run dev --prefix ./webapp -- --port "$WEBAPP_PORT"
